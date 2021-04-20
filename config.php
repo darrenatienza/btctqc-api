@@ -5,7 +5,7 @@ $setting = [
     'address' => 'localhost',
     'port' => '3306',
     'username' => $USER_NAME,
-    'password' => '',
+    'password' => $PASSWORD,
     'database' => $DB_NAME,
     'debug' => true,
     // middlewares 
